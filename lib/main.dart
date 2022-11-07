@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
+import './todo.dart';
+
 void main() {
-  runApp(const MyApp());
+  runApp(const ToDoApp());
 }
 
 class FavoriteWidget extends StatefulWidget {
